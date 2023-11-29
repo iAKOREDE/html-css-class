@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 20px;
+    background: #fff;
+    list-style: none;
+}
+
+.img{
+    list-style: none;
+    margin-top: 10px;
+
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    text-align: center;
+    gap: 50px;
+}
+
+.listli.hover{
+    color: red;
+    cursor: pointer;
+}
+
+.icon{
+    list-style: none;
+    padding-right: 50px;
+}
+
+.body{
+    background-image: url(./KFC_Bucket_Search_003.webp);
+    background-position: center;
+    height: 500px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.note{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 47px;
+    padding-top: 170px;
+    border: none;
+}
+
+.btn{
+    background-color: red;
+    color: #fff;
+    width: 120px;
+    height: 50px;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+
+.btn.hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.head{
+    text-align: center;
+    font-size: large;
+}
+
+.note1{
+    text-align: center;
+}
+
+.pag{
+    text-align: center;
+    font-weight: light;
+    font-size: large;
+    color: #151515;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.btn2{
+    background-color: red;
+    color: #fff;
+    font-weight: bolder;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+   
+}
+
+.btn2.hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.sec{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.bod{
+    text-align: center;
+    align-items: center;
+    border-color: #fff;
+    border: solid 2px;
+    width: 390px;
+    height: 45px;
+    color: #fff;
+    background-color: red;
+    font-weight: 700px;
+    padding-top: 30px;
+}
+
+.bod.hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.foot{
+    margin-top: 0;
+    padding: 0;
+}
+
+.mama{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 50px;
+}
+
+.d1{
+    margin-top: 40px;
+    align-items: normal;
+
+}
+
+.divh{
+    color: red;
+    margin-bottom: 20px;
+    cursor: text;
+    font: bold;
+    font-weight: 700;
+
+}
+
+.list1{
+    list-style: none;
+    cursor: pointer;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.div2{
+    align-items: normal;
+    margin-top: 40px;
+}
+
+.divh2{
+    color: red;
+    margin-bottom: 20px;
+    cursor: text;
+    font: bold;
+    font-weight: 700;
+}
+
+.list2{
+    list-style: none;
+    cursor: pointer;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.div3{
+    align-items: normal;
+    margin-top: 40px;
+    margin-right: 150px;
+    padding-left: 30px;
+
+}
+
+.divh3{
+    color: red;
+    margin-bottom: 20px;
+    cursor: text;
+    font: bold;
+    font-weight: 700;
+}
+
+.list3{
+    list-style: none;
+    cursor: pointer;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.footdiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.footlist{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.arrowdiv{
+    padding-left: 1490px;
+}
+
+.btn3{
+    background-color: red;
+    color: #eee;
+    width: 40px;
+    padding: 10px;
+    border: none;
+}

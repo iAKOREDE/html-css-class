@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.test{
+    background-image: url(./prof_justic-2.jpg);
+    background-size: cover;
+    height: 200opx;
+    /* width: 1000px; */
+}
+
+.test2{
+    border: solid 2px;
+    width: 300px;
+    cursor:pointer;
+   
+}
+.test3{
+    display: grid;
+    justify-content: space-between;
+    margin: 20px;
+    gap: 5px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.imgb{
+    background-image: url(./prof_justic-2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.test4:hover{
+    background-image: url(./prof_justic-2.jpg);
+    background-size: cover;
+}
+
+@media screen and (max-width: 700px) {
+    
+}
+    .test3{
+        display: grid;
+        justify-content: space-between;
+        margin: 20px;
+        gap: 5px;
+        grid-template-columns: auto auto auto auto;
+    
+
+    
+}
